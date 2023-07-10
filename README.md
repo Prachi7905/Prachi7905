@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Prachi pandey
-- 👀 I’m interested in Web devlopment
-- 🌱 I’m currently learning React Js.
+- 👋 Hi, I’m Prachi pandey pursuing Btech in computer science.
+- 👀 Languages known : HTML, CSS & JAVASCRIPT, C LANGUAGE, CORE JAVA, REACT JS. 
+- 🌱Skilled in DATA SCIENCE & ALGORITHM
 - 💞️ I’m looking to collaborate on some live projects and to work on frontend
 - 📫 kindly mail me on pandeyprachi077@gmail.com
 
