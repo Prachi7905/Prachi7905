@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prachi pandey pursuing Btech in computer science.
+- 👋 Hi, I’m Kajal pandey pursuing Btech in computer science.
 - 👀 Languages known : HTML, CSS & JAVASCRIPT, C & C++, CORE JAVA, REACT JS, Bootstrap. 
 - 🌱Learning DATA SCIENCE & ALGORITHM
 - 💞️ I’m looking to collaborate on some live projects and to work on frontend
