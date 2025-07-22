@@ -14,22 +14,4 @@
 - Basics of SQL
 
 ## 📈 GitHub Stats
-![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kajalpandey&show_icons=true&theme=radical)
-
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
-<!--
-**Prachi7905/Prachi7905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as Associate Product Specialist
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Prachi7905&show_icons=true&theme=radical)
