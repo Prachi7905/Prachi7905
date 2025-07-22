@@ -18,6 +18,6 @@
 
 
 ## 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi7905&layout=compact&theme=radical&custom_title=Most%20used%20language)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi7905&layout=compact&theme=radical&custom_title=Most%20Used%20Language)
 
 
