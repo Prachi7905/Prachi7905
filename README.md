@@ -15,7 +15,7 @@
 
 
 ## 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Prachi7905&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prachi7905&show_icons=true&theme=radical)
 
 
 
